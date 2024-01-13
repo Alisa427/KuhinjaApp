@@ -1,0 +1,68 @@
+{
+  "project_info": {
+    "project_number": "406250446583",
+    "firebase_url": "https://restoran-bb128-default-rtdb.europe-west1.firebasedatabase.app",
+    "project_id": "restoran-bb128",
+    "storage_bucket": "restoran-bb128.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:406250446583:android:9ce7832eb69d38f804fdf2",
+        "android_client_info": {
+          "package_name": "com.example.gost_app"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBCH8CqsexasIPpCNLzkzqICBODUaqFP9k"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:406250446583:android:e24c03b0a1081a3104fdf2",
+        "android_client_info": {
+          "package_name": "com.example.kitchenApp"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBCH8CqsexasIPpCNLzkzqICBODUaqFP9k"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:406250446583:android:dfb8ab041f51bad304fdf2",
+        "android_client_info": {
+          "package_name": "com.example.konobarApp"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBCH8CqsexasIPpCNLzkzqICBODUaqFP9k"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

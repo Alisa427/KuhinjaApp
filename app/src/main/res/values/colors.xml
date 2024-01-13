@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="black">#FF000000</color>
+    <color name="white">#FFFFFFFF</color>
+
+    <color name="burgundy">#570e28</color>
+    <color name="redLight">#F65C60</color>
+
+    <color name="pinkyTransparent">#CCF6E7E6</color>
+    <color name="pinky">#F3DCDA</color>
+    <color name="pinkyDark">#e0c1bf</color>
+    <color name="pinkyDarkTransparent">#CCe0c1bf</color>
+
+    <color name="grayLight">#acaaa9</color>
+    <color name="gray">#BCBABA</color>
+    <color name="grayDark">#5F5F5F</color>
+
+    <color name="green">#72bb52</color>
+    <color name="greenLight">#A9EA8C</color>
+
+
+
+</resources>
